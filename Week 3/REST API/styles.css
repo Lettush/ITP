@@ -1,0 +1,24 @@
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem; /* 1.25x bigger */
+}
+
+.card-subtitle {
+    color: grey;
+}
+
+.card-text {
+    margin-bottom: 5px;
+}
+
+.card-link {
+    color: #006eff;
+    text-decoration: none;
+}
